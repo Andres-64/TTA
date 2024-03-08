@@ -54,13 +54,13 @@ Jo Week Goal : Set up jarvis two github open source - and finish fixing shadow  
 Contact jarvis two creator about any bug as well as look up a translator open source  
 
 Andre week three Goal: Contact supkesh the Jarvis one creator to clarify the installation process and report bugs that I found. Find a translator open source 
-Alya:
+Alyaa:
 
 Week four Andres: Before Friday meeting
 Follow up to our back up plan and installed jarvis from digamabar repository. Installed all the required libraries and find out he doesnt have any instructions to do this. Therefore, we can work on a read.me to make it easier to installe for other people. In addition to this, I work on a small program to test the googletranslator librarie. It was a success, so I start working on our feature. Managed to completed it but unfortunatly I cant tested it as right now theres seem to be an error on my engine folder. 
 
 
-
-
+week 4: 
+We were able to get the jarvis platform to work but it is only listening to our verbal input but not responding to it. We will work on making the Jarvis program work in both input and output handling. We will make sure to fix this error, hopefully by next time.
    
 Canvas Activity version control			
